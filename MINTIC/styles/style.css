@@ -1,3 +1,9 @@
+div a{
+    color: #ff5f6d;
+}
+div a:hover{
+    color: darkviolet;
+}
 .background-header{
     background: #ff5f6d;
     background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
@@ -17,4 +23,12 @@
 .card img{
     width: 70%;
     height: 70%;
+}
+.py-4 .icon{
+    font-size: 40px;
+    color:  #ffc371;
+}
+.py-4 .icon:hover{
+    font-size: 40px;
+    color:  #ff5f6d;
 }
