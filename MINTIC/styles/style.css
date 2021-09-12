@@ -1,0 +1,20 @@
+.background-header{
+    background: #ff5f6d;
+    background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+}
+.services-container{
+    margin-top: 80px;
+    width: 80%;
+}
+.bi{
+    width: 60px;
+    height: 60px; 
+}
+.notices{
+    width: 80%;
+}
+.card img{
+    width: 70%;
+    height: 70%;
+}
