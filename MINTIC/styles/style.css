@@ -4,6 +4,19 @@ div a{
 div a:hover{
     color: darkviolet;
 }
+.card .img-development{
+    margin-top: 10px;
+    height: 90%;
+    width: 30%;    
+}
+.card-header{
+    text-align: center;
+    color: white;
+}
+
+.card-develop{
+    margin-top: 50px;
+}
 .background-header{
     background: #ff5f6d;
     background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
@@ -31,4 +44,7 @@ div a:hover{
 .py-4 .icon:hover{
     font-size: 40px;
     color:  #ff5f6d;
+}
+footer{
+    margin-top: 50px;
 }
